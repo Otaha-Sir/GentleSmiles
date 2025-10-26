@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/GentleSmiles)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/GentleSmiles?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/GentleSmiles?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/123qassim/GentleSmiles)
+  ![GitHub stars](https://img.shields.io/github/stars/123qassim/GentleSmiles?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/123qassim/GentleSmiles?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/123qassim_?style=social)](https://twitter.com/intent/follow?screen_name=123qassim_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/q0WvF0OVWVg?style=social)](https://youtu.be/q0WvF0OVWVg)
 
   <br />
