@@ -13,7 +13,7 @@
 
   GentleSmiles is a fully responsive dental website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/GentleSmiles/"><strong>➥ Live Demo</strong></a>
+  <a href="https://123qassim.github.io/GentleSmiles/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,13 +36,13 @@ To run **GentleSmiles** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/GentleSmiles.git
+sudo git clone https://github.com/123qassime/GentleSmiles.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/GentleSmiles.git
+git clone https://github.com/123qassim/GentleSmiles.git
 ```
 
 ### Contact
